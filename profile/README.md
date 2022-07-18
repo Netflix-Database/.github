@@ -58,6 +58,8 @@
   * Dovecot
 
   * Apache2
+  
+  * Redis
 
 </details>
 
